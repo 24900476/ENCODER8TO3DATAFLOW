@@ -78,6 +78,9 @@ Developed by:KABIRA A RegisterNumber:212224040146
 ![digi w](https://github.com/user-attachments/assets/e44652f9-5e51-4162-b0c0-fc200f32a268)
 
 **RESULTS**
+
+
+
 Encode 8 to 3 in dataflow modelling using verilog and validating their functionality using their functional tables verified.
 
 
